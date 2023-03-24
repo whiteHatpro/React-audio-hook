@@ -1,21 +1,21 @@
 {
-  "name": "react-Music-Hook",
+  "name": "react-awesome-audio",
   "version": "1.0.0",
   "description": "Coming Soon",
   "author": {
-    "name": "Mohak Srivastav",
-    "email": "srivastavmohak15@gmail.com",
-    "url": "https://github.com/whiteHatpro"
+    "name": "Niloy Sikdar",
+    "email": "niloysikdar30@gmail.com",
+    "url": "https://github.com/niloysikdar"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteHatpro/React-audio-hook.git"
+    "url": "git+https://github.com/niloysikdar/react-awesome-audio.git"
   },
   "bugs": {
-    "email": "srivastavmohak15@gmail.com",
-    "url": "https://github.com/whiteHatpro/React-audio-hook/issues"
+    "email": "niloysikdar30@gmail.com",
+    "url": "https://github.com/niloysikdar/react-awesome-audio/issues"
   },
-  "homepage": "https://github.com/whiteHatpro/React-audio-hook",
+  "homepage": "https://github.com/niloysikdar/react-awesome-audio",
   "license": "MIT",
   "keywords": [
     "",
@@ -34,6 +34,11 @@
     "prettier:fix": "prettier --write .",
     "prettier:check": "prettier --check .",
     "lint-staged": "lint-staged"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   },
   "lint-staged": {
     "src/*.{ts,tsx}": [
