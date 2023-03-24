@@ -1,21 +1,21 @@
 {
-  "name": "react-awesome-audio",
+  "name": "React-Music-Hook",
   "version": "1.0.0",
-  "description": "Coming Soon",
+  "description": "Optimized and Supercharged React hook to play audio without any DOM element🎧",
   "author": {
-    "name": "Niloy Sikdar",
-    "email": "niloysikdar30@gmail.com",
-    "url": "https://github.com/niloysikdar"
+    "name": "Mohak Srivastav",
+    "email": "srivastavmohak15@gmail.com",
+    "url": "https://github.com/whiteHatpro"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niloysikdar/react-awesome-audio.git"
+    "url": "git+https://github.com/whiteHatro/React-Music-Hook.git"
   },
   "bugs": {
-    "email": "niloysikdar30@gmail.com",
-    "url": "https://github.com/niloysikdar/react-awesome-audio/issues"
+    "email": "srivastavmohak15@gmail.com",
+    "url": "https://github.com/whiteHatpro/React-Music-Hook/issues"
   },
-  "homepage": "https://github.com/niloysikdar/react-awesome-audio",
+  "homepage": "https://github.com/whiteHatpro/React-Music-Hook",
   "license": "MIT",
   "keywords": [
     "",
@@ -37,7 +37,7 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "lint-staged"
+      "pre-commit": "npm run lint-staged && git add -A ."
     }
   },
   "lint-staged": {
@@ -47,7 +47,7 @@
     ]
   },
   "peerDependencies": {
-    "react": ">=16"
+    "react": ">=16.8"
   },
   "devDependencies": {
     "@types/react": "^17.0.38",
