@@ -1,7 +1,7 @@
 {
-  "name": "React-Music-Hook",
+  "name": "react-music-hook",
   "version": "1.0.0",
-  "description": "Optimized and Supercharged React hook to play audio without any DOM element🎧",
+  "description": "Optimized and Supercharged React hook to play audio without any DOM element 💪🎧",
   "author": {
     "name": "Mohak Srivastav",
     "email": "srivastavmohak15@gmail.com",
@@ -9,23 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteHatro/React-Music-Hook.git"
+    "url": "git+https://github.com/whiteHatpro/React-Music-Hook.git"
   },
   "bugs": {
     "email": "srivastavmohak15@gmail.com",
     "url": "https://github.com/whiteHatpro/React-Music-Hook/issues"
   },
-  "homepage": "https://github.com/whiteHatpro/React-Music-Hook",
+  "homepage": "https://github.com/whiteHatpro/React-Music-Hook#readme",
   "license": "MIT",
-  "keywords": [
-    "",
-    ""
-  ],
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
   "scripts": {
     "prepare": "npx husky install",
     "build": "tsc -p tsconfig.json",
@@ -61,5 +57,23 @@
     "prettier": "^2.5.1",
     "react": "^17.0.2",
     "typescript": "^4.5.4"
-  }
+  },
+  "keywords": [
+    "React-Music-Hook",
+    "react",
+    "awesome",
+    "audio",
+    "music",
+    "sound",
+    "mp3",
+    "player",
+    "react-audio-player",
+    "react-audio",
+    "audio-player",
+    "sound-player",
+    "music-player",
+    "react-hooks",
+    "hooks",
+    "optimized"
+  ]
 }
