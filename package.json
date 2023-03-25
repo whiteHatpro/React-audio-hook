@@ -4,7 +4,7 @@
   "description": "Optimized and Supercharged React hook to play audio without any DOM element 💪🎧",
   "author": {
     "name": "Mohak Srivastav",
-    "email": "srivastavmohak15@gmail.com",
+    "email": "whiteHatpro30@gmail.com",
     "url": "https://github.com/whiteHatpro"
   },
   "repository": {
@@ -12,7 +12,7 @@
     "url": "https://github.com/whiteHatpro/React-Music-Hook.git"
   },
   "bugs": {
-    "email": "srivastavmohak15@gmail.com",
+    "email": "whiteHatpro30@gmail.com",
     "url": "https://github.com/whiteHatpro/React-Music-Hook/issues"
   },
   "homepage": "https://github.com/whiteHatpro/React-Music-Hook#readme",
@@ -27,7 +27,7 @@
     "build": "tsc -p tsconfig.json",
     "watch": "tsc --watch",
     "cm": "cz",
-    "lint": "eslint src/**/*",
+    "lint": "eslint src/**/* --fix",
     "prettier:fix": "prettier --write .",
     "prettier:check": "prettier --check .",
     "lint-staged": "lint-staged",
