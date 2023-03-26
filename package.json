@@ -1,9 +1,10 @@
 {
   "name": "react-music-hook",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "private": false,
   "description": "Optimized and Supercharged React hook to play audio without any DOM element 💪🎧",
   "author": {
-    "name": "Niloy Sikdar",
+    "name": "Mohak Srivastav",
     "email": "srivastavmohak15@gmail.com",
     "url": "https://github.com/whiteHatpro"
   },
