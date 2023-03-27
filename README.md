@@ -103,8 +103,8 @@ Distributed under the MIT License. See [LICENSE](https://github.com/niloysikdar/
 
 ## Author
 
-### Mohak Srivastav
+### Niloy Sikdar
 
-- [srivastavmohak15@gmail.com](mailto:srivastavmohak15@gmail.com)
+- [niloysikdar30@gmail.com](mailto:niloysikdar30@gmail.com)
 - [GitHub](https://github.com/niloysikdar)
 - [LinkedIn](https://www.linkedin.com/in/niloysikdar)
