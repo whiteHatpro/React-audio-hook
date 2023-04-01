@@ -1,33 +1,33 @@
-# react-awesome-audio
+# react-music-hook
 
 ### Optimized and Supercharged React hook to play audio without any DOM element 💪🎧
 
-Find the npm package [here](https://www.npmjs.com/package/react-awesome-audio)
+Find the npm package [here](https://www.npmjs.com/package/react-music-hook)
 
 <p>
-  <a href="https://badge.fury.io/js/react-awesome-audio"><img src="https://badge.fury.io/js/react-awesome-audio.svg" alt="npm version" /></a>
+  <a href="https://badge.fury.io/js/react-music-hook"><img src="https://badge.fury.io/js/react-music-hook.svg" alt="npm version" /></a>
 </p>
 
-### Star the [GitHub repo](https://github.com/niloysikdar/react-awesome-audio) to keep the developer motivated ✨
+### Star the [GitHub repo](https://github.com/whiteHatpro/react-music-hook) to keep the developer motivated ✨
 
 ## Installation
 
 - using npm
 
 ```
-npm i react-awesome-audio
+npm i react-music-hook
 ```
 
 or
 
 ```
-npm install --save react-awesome-audio
+npm install --save react-music-hook
 ```
 
 - using yarn
 
 ```
-yarn add react-awesome-audio
+yarn add react-music-hook
 ```
 
 Also be sure you have `react` installed in your app at version 16.8 or above.
@@ -36,7 +36,7 @@ Also be sure you have `react` installed in your app at version 16.8 or above.
 
 ### Using audio URL
 
-    import { useAudio } from "react-awesome-audio";
+    import { useAudio } from "react-music-hook";
 
     const App = () => {
         const { isPlaying, play, pause, toggle } = useAudio({
@@ -56,7 +56,7 @@ Also be sure you have `react` installed in your app at version 16.8 or above.
 ### Using asset audio
 
 ```
-import { useAudio } from "react-awesome-audio";
+import { useAudio } from "react-music-hook";
 import song from "./assets/song.mp3";
 
 const App = () => {
@@ -79,7 +79,7 @@ export default App;
 
 ### Example
 
-See the [example directory](https://github.com/niloysikdar/react-awesome-audio/tree/main/example) for a basic working example of using this project. To run it locally, run `npm install` in the example directory and then `npm start`.
+See the [example directory](https://github.com/whiteHatpro/react-music-hook/tree/main/example) for a basic working example of using this project. To run it locally, run `npm install` in the example directory and then `npm start`.
 
 ## Options
 
@@ -95,16 +95,10 @@ See the [example directory](https://github.com/niloysikdar/react-awesome-audio/t
 
 ## Bugs and Features
 
-See the [issues](https://github.com/niloysikdar/react-awesome-audio/issues) for a list of proposed features (and known issues). Feel free to raise new issues.
+See the [issues](https://github.com/whiteHatpro/react-music-hook/issues) for a list of proposed features (and known issues). Feel free to raise new issues.
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/niloysikdar/react-awesome-audio/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/whiteHatpro/react-music-hook/blob/main/LICENSE) for more information.
 
 ## Author
-
-### Niloy Sikdar
-
-- [niloysikdar30@gmail.com](mailto:niloysikdar30@gmail.com)
-- [GitHub](https://github.com/niloysikdar)
-- [LinkedIn](https://www.linkedin.com/in/niloysikdar)

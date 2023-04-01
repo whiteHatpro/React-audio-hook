@@ -1,22 +1,22 @@
 {
-  "name": "react-awesome-audio",
+  "name": "react-music-hook",
   "version": "1.1.0",
   "private": false,
   "description": "Optimized and Supercharged React hook to play audio without any DOM element 💪🎧",
   "author": {
-    "name": "Niloy Sikdar",
-    "email": "niloysikdar30@gmail.com",
-    "url": "https://github.com/niloysikdar"
+    "name": "Mohak Srivastav",
+    "email": "srivastavmohak15@gmail.com",
+    "url": "https://github.com/whiteHatpro"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/niloysikdar/react-awesome-audio.git"
+    "url": "https://github.com/whiteHatpro/react-music-hook.git"
   },
   "bugs": {
-    "email": "niloysikdar30@gmail.com",
-    "url": "https://github.com/niloysikdar/react-awesome-audio/issues"
+    "email": "srivastavmohak15@gmail.com",
+    "url": "https://github.com/whiteHatpro/react-music-hook/issues"
   },
-  "homepage": "https://github.com/niloysikdar/react-awesome-audio#readme",
+  "homepage": "https://github.com/whiteHatpro/react-music-hook#readme",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

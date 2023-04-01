@@ -19,7 +19,7 @@ const App = () => {
       </h1>
       <h2>Author: Niloy Sikdar</h2>
       <a
-        href="https://github.com/niloysikdar/react-awesome-audio"
+        href="https://github.com/whiteHatpro/react-music-hook"
         target="_blank"
         rel="noreferrer"
       >
