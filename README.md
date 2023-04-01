@@ -5,7 +5,7 @@
 Find the npm package [here](https://www.npmjs.com/package/react-music-hook)
 
 <p>
-  <a href="https://badge.fury.io/js/react-music-hook"><img src="https://badge.fury.io/js/react-music-hook.svg" alt="npm version" /></a>
+  <a href="https://badge.fury.io/js/react-music-hook"><img src="https://badge.fury.io/js/react-awesome-audio.svg" alt="npm version" /></a>
 </p>
 
 ### Star the [GitHub repo](https://github.com/whiteHatpro/react-music-hook) to keep the developer motivated ✨
