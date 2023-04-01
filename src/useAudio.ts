@@ -3,7 +3,7 @@
  * useAudio hook
  * ----
  * Optimized and Supercharged React hook to play audio without any DOM element 💪🎧
- * Created with love by Mohak Srivastav
+ * Created with love by Niloy Sikdar
  *
  */
 
@@ -76,7 +76,8 @@ export const useAudio = (options: optionsType) => {
 
     // Cleanup
     return () => {
-      !options.loop && audio.removeEventListener('ended', () => setIsplaying(false));
+      !options.loop &&
+        audio.removeEventListener('ended', () => setIsplaying(false));
     };
   }, [audio, options]);
 
