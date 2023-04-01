@@ -36,15 +36,15 @@ Also be sure you have `react` installed in your app at version 16.8 or above.
 
 ### Using audio URL
 
-    import { useAudio } from "react-music-hook";
+  import { useAudio } from "react-music-hook";
 
-    const App = () => {
+  const App = () => {
         const { isPlaying, play, pause, toggle } = useAudio({
             src: "https://p.scdn.co/mp3-preview/d09498fe7e41e26b90682c3b5a0819bbcc3378e2",
             loop: true,
         });
 
-        return (
+  return (
             <div>
                 <button onClick={toggle}>{isPlaying ? "Pause" : "Play"}</button>
             </div>
@@ -105,5 +105,4 @@ Distributed under the MIT License. See [LICENSE](https://github.com/whiteHatpro/
 
 ### Mohak Srivastav
 
-- [srivastavmohak15@gmail.com](mailto:srivastavmohak15@gmail.com)
 - [GitHub](https://github.com/whiteHatpro)
